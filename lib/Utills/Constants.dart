@@ -9,11 +9,11 @@ class Constants{
   static const  String ios_interstitial_id = '163165832231722_163166048898367';
 
 
-  static const  String android_app_link = 'https://play.google.com/store/apps/details?id=com.manthanvanani.ieltsreadingat';
+  static const  String android_app_link = 'https://play.google.com/store/apps/details?id=com.rushabhnavadiya.ieltsreadingat';
   static const  String ios_app_link = 'https://itunes.apple.com/us/app/myapp/id1552014627';
-  static const  String android_app = 'com.manthanvanani.ieltsreadingat';
+  static const  String android_app = 'com.rushabhnavadiya.ieltsreadingat';
   static const  String ios_app = '1552014627';
-  static const  String email_id = 'manthanvannai9442@gmail.com';
+  static const  String email_id = 'rushabhnavadiya1998@gmail.com';
   static const  String email_subject = 'Suggestion';
   // '#7339E5'
   static const  Color main_color = Color(0xFF293569);
